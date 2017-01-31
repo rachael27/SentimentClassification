@@ -1,5 +1,4 @@
-#
-Sentiment Analysis Classification using Classical Machine Learning Approaches
+#Sentiment Analysis Classification using Classical Machine Learning Approaches
 
 #### Step-by-Step Tutorial with R and WEKA
 
