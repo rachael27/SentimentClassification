@@ -40,9 +40,5 @@ We at ArabWic Qatar hope you enjoy this tutorial!
 
 # 
 
-# 
-
-# 3. 
-
 
 
